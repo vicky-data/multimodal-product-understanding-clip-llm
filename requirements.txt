@@ -1,0 +1,7 @@
+transformers
+torch
+faiss-cpu
+pillow
+numpy
+pandas
+openai
